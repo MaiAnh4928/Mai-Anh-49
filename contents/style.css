@@ -1,6 +1,8 @@
-h4 {
-color: FireBrick
-}
 .tuade {
   color: FireBrick;
+  font-size: 20pt;
+}
+.noidung {
+  color: black; 
+  font-size: 10pt;
 }

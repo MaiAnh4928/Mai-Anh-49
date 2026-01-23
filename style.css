@@ -1,11 +1,16 @@
-.h3 {
+h3 {
   color: MidnightBlue; 
+  top-margin: 25pt
 }
-.tuade {
+ .tuade {
   color: FireBrick;
+  top-margin: 20pt;
   font-size: 20pt;
+  font-weight: bold;
 }
-.noidung {
+ .noidung {
   color: black; 
-  font-size: 10pt;
+  top-margin: 6pt
+  font-size: 15pt;
+  font-style: normal;
 }

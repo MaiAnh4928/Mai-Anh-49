@@ -13,6 +13,10 @@
   display: flex;
   align-items: center;
 }
+.menu hover{
+   background-color: #FFC150;
+   color: #FFFAE1;
+}
 .content{
   flex: 70%;
   background-color: #FFFAE1;

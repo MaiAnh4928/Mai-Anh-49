@@ -14,8 +14,8 @@
   align-items: center;
 }
 .menu hover{
-   background-color: #FFC150;
-   color: #FFFAE1;
+   background-color: #FFFAE1;
+   color: #FFC150;
 }
 .content{
   flex: 70%;

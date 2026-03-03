@@ -14,7 +14,12 @@
   display: flex;
   align-items: center;
 }
-.menu hover{
+.menu a {
+   padding: 15px 20px;
+   color: #FFE761;
+   text-decoration: none;
+}
+.menu a: hover{
    background-color: #FFFAE1;
    color: #FFC150;
 }

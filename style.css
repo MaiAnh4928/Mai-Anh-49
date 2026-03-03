@@ -4,7 +4,7 @@
   height: 100vh;
 }
 .header{
-  flex: 25%;
+  flex: 20%;
   background-color: #FFED8B;
   background: url("image/banner.png") center;
 }
@@ -34,7 +34,7 @@
    width: 100%;
 }
 .footer{
-  flex: 10%;
+  flex: 5%;
   background-color: #FFED8B;
 }
 h1 {

@@ -19,9 +19,9 @@
    color: #FFFAE1;
    text-decoration: none;
 }
-.menu a: hover{
-   background-color: #FFFAE1;
-   color: #FFC150;
+.menu a:hover{
+   background-color: #CFB8E6;
+   color: #795196;
 }
 .content{
   flex: 70%;
